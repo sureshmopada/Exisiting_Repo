@@ -3,3 +3,5 @@ Dho
 Theen
 char
 panch
+che
+sath
