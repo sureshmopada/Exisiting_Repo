@@ -1,3 +1,5 @@
 Aak
 Dho
 Theen
+char
+panch
