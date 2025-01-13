@@ -5,3 +5,6 @@ char
 panch
 che
 sath
+aat
+nov
+dhas
